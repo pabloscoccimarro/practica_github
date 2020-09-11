@@ -4,12 +4,12 @@
  * and open the template in the editor.
  */
 
-package practicagit.servicios;
+package practicagit.entidades;
 
 /**
  * 
  * @author Gisele Galaburri <gisele.galaburri89 at gmail.com>
  */
-public class Proveedor {
+public class Control {
 
 }
