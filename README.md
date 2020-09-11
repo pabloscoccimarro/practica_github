@@ -1,14 +1,14 @@
 ﻿# practica_github
 
-Pablo Martin Scoccimarro
+Pablo Martin Scoccimarro: administrador
 
-juan Asensio Falco
+juan Asensio Falco: control y pedido
 
-Gisele Galaburri
+Gisele Galaburri: almacén e inventario
 
-Gigi Levit
+Gigi Levit: venta y existencias
 
-Nahuel Bullon
+Nahuel Bullon: proveedores
 
-Federico Segui
+Federico Segui: producto
 
