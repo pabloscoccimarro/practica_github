@@ -11,5 +11,12 @@ package practicagit.service;
  * @author Gisele Galaburri <gisele.galaburri89 at gmail.com>
  */
 public class InventarioServicio {
+    
+    public void registroDePedido() {
+        
+    }
 
+    public void existencias() {
+        
+    }
 }
