@@ -6,10 +6,17 @@
 
 package practicagit.dao;
 
+import javax.persistence.EntityManager;
+import javax.persistence.EntityManagerFactory;
+import javax.persistence.Persistence;
+
 /**
  * 
  * @author Gisele Galaburri <gisele.galaburri89 at gmail.com>
  */
 public class ControlDAO {
-
+    private final EntityManagerFactory emf = Persistence.createEntityManagerFactory("JPA-libreriaPU");
+    private final EntityManager em = emf.createEntityManager();
+    
+    
 }
