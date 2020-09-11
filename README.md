@@ -1,10 +1,14 @@
-# practica_github
+﻿# practica_github
+
 Pablo Martin Scoccimarro
 
 juan Asensio Falco
 
 Gisele Galaburri
 
-Nahuel Bull�n
-
 Gigi Levit
+
+Nahuel Bullon
+
+Federico Segui
+
