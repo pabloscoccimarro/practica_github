@@ -12,4 +12,11 @@ package practicagit.service;
  */
 public class ProveedorServicio {
 
+    public static void ventaDirecta() {
+        
+    }
+    
+    public static void pedidosEspeciales() {
+        
+    }
 }
