@@ -10,6 +10,6 @@ package practicagit.entidades;
  * 
  * @author Gisele Galaburri <gisele.galaburri89 at gmail.com>
  */
-public class PedidoServicio {
+public class Inventario {
 
 }
