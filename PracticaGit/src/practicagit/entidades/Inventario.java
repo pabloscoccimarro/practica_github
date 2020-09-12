@@ -12,8 +12,10 @@ import javax.persistence.Id;
  * 
  * @author Gisele Galaburri <gisele.galaburri89 at gmail.com>
  */
+@Entity
 public class Inventario {
 
+    @Id
     private Integer numSolicitud;
 
     public Inventario() {
