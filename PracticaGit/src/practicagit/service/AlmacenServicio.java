@@ -11,5 +11,17 @@ package practicagit.service;
  * @author Gisele Galaburri <gisele.galaburri89 at gmail.com>
  */
 public class AlmacenServicio {
+    
+    public void ventas() {
+        //metodo de venta
+    }
+    
+    public void recibirPedido() { 
+        
+    }
+    
+    public void recibirPago() {
+        
+    }
 
 }
