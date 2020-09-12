@@ -12,4 +12,12 @@ package practicagit.service;
  */
 public class ProductoServicio {
 
+    
+    public void Asignacion(){
+    
+    }
+    
+    public void Retorno(){
+    
+    }
 }
